@@ -1,0 +1,25 @@
+{
+  "elo": {},
+  "corners": {},
+  "playerOverrides": [],
+  "teamAliases": {
+    "Manchester City": "Man City",
+    "Manchester Utd": "Man Utd",
+    "Nottingham Forest": "Nott'm Forest",
+    "Newcastle Utd": "Newcastle",
+    "Tottenham": "Spurs",
+    "Leicester City": "Leicester",
+    "West Ham": "West Ham",
+    "Wolves": "Wolves",
+    "Brighton": "Brighton",
+    "Brentford": "Brentford",
+    "Crystal Palace": "Crystal Palace",
+    "Everton": "Everton",
+    "Fulham": "Fulham",
+    "Aston Villa": "Aston Villa",
+    "Arsenal": "Arsenal",
+    "Chelsea": "Chelsea",
+    "Liverpool": "Liverpool"
+  },
+  "nameFixes": {}
+}

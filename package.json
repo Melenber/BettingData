@@ -1,0 +1,12 @@
+{
+  "name": "betting-data",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scheduled script to build data.json for the Betting Calculators app",
+  "scripts": {
+    "update": "node scripts/update.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
