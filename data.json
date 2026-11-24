@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T16:53:35.899Z",
+  "generatedAt": "2026-11-24T20:49:32.743Z",
   "fpl": {
-    "updatedAt": "2026-11-24T16:53:35.899Z"
+    "updatedAt": "2026-11-24T20:49:32.743Z"
   },
   "fbref": {
     "status": "stale",
@@ -8260,9 +8260,9 @@
       "xg": 0.18,
       "yellows": 0,
       "threat": 11,
-      "status": "s",
-      "chance": 0,
-      "news": "Suspended until 2 Dec",
+      "status": "a",
+      "chance": 100,
+      "news": "",
       "sotPer90": null,
       "shotsPer90": null
     },
