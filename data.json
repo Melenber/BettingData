@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T20:49:32.743Z",
+  "generatedAt": "2026-11-25T16:41:52.491Z",
   "fpl": {
-    "updatedAt": "2026-11-24T20:49:32.743Z"
+    "updatedAt": "2026-11-25T16:41:52.491Z"
   },
   "fbref": {
     "status": "stale",
@@ -2052,9 +2052,9 @@
       "xg": 0.14,
       "yellows": 4,
       "threat": 34,
-      "status": "a",
-      "chance": 100,
-      "news": "",
+      "status": "d",
+      "chance": 75,
+      "news": "Illness - 75% chance of playing",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -7236,9 +7236,9 @@
       "xg": 1.24,
       "yellows": 0,
       "threat": 152,
-      "status": "d",
-      "chance": 75,
-      "news": "Calf injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Calf injury - Expected back 2 Dec",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -7300,9 +7300,9 @@
       "xg": 0.17,
       "yellows": 0,
       "threat": 24,
-      "status": "d",
-      "chance": 75,
-      "news": "Foot injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Foot injury - Unknown return date",
       "sotPer90": null,
       "shotsPer90": null
     },
