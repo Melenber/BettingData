@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T16:41:52.491Z",
+  "generatedAt": "2026-11-26T16:15:18.448Z",
   "fpl": {
-    "updatedAt": "2026-11-25T16:41:52.491Z"
+    "updatedAt": "2026-11-26T16:15:18.448Z"
   },
   "fbref": {
     "status": "stale",
@@ -2916,9 +2916,9 @@
       "xg": 0.05,
       "yellows": 1,
       "threat": 18,
-      "status": "d",
-      "chance": 75,
-      "news": "Back injury - 75% chance of playing",
+      "status": "a",
+      "chance": 100,
+      "news": "",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -3652,9 +3652,9 @@
       "xg": 2.9,
       "yellows": 0,
       "threat": 155,
-      "status": "d",
-      "chance": 75,
-      "news": "Ankle injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Ankle injury - Unknown return date",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -7396,9 +7396,9 @@
       "xg": 1.32,
       "yellows": 2,
       "threat": 168,
-      "status": "a",
-      "chance": 100,
-      "news": "",
+      "status": "d",
+      "chance": 75,
+      "news": "Knee injury - 75% chance of playing",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -8116,9 +8116,9 @@
       "xg": 0,
       "yellows": 0,
       "threat": 0,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "chance": 100,
+      "news": "",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -8308,9 +8308,9 @@
       "xg": 0.03,
       "yellows": 2,
       "threat": 21,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "a",
+      "chance": 100,
+      "news": "",
       "sotPer90": null,
       "shotsPer90": null
     },
@@ -9412,9 +9412,9 @@
       "xg": 0.11,
       "yellows": 0,
       "threat": 4,
-      "status": "i",
-      "chance": 0,
-      "news": "Unspecified injury - Unknown return date",
+      "status": "a",
+      "chance": 100,
+      "news": "",
       "sotPer90": null,
       "shotsPer90": null
     },
